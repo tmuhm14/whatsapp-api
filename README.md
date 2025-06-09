@@ -51,7 +51,6 @@ docker-compose pull && docker-compose up
 
 7. EXTRA: Look at all the callbacks data in `./session/message_log.txt`
 
-![Quick Start](./assets/basic_start.gif)
 
 ## Features
 
@@ -171,6 +170,3 @@ This project is not affiliated, associated, authorized, endorsed by, or in any w
 
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=chrishubert/whatsapp-api&type=Date)](https://star-history.com/#chrishubert/whatsapp-api&Date)
